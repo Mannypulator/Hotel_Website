@@ -215,7 +215,7 @@ p {
 
 }
 #contact-form textarea  {
-    height: 200px;
+    height: 100px;
 }
 #contact-form input:focus,
 #contact-form textarea:focus {
